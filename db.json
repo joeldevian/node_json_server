@@ -1,0 +1,76 @@
+{
+  "profesores": [
+    {
+      "nombre": "Joel",
+      "apellido": "Ircañaupa",
+      "materias": [
+        {
+          "nombre": "Java"
+        },
+        {
+          "nombre": "Pyhton"
+        },
+        {
+          "nombre": "JavaScript"
+        }
+      ],
+      "id": "2138"
+    },
+    {
+      "id": "0cd4",
+      "nombre": "Creifer",
+      "apellido": "Berrocal",
+      "materias": [
+        {
+          "nombre": "Geometria"
+        },
+        {
+          "nombre": "Algebra"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "54eb"
+    },
+    {
+      "nombre": "Juan",
+      "apellido": "Igancio",
+      "promedio": 10,
+      "id": "9730"
+    },
+    {
+      "id": "98d5"
+    },
+    {
+      "id": "021b",
+      "nombre": "Estela",
+      "apellido": "Cuba",
+      "promedio": 9.2
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Java",
+      "duracion": 7,
+      "dificultad": "Intermedio",
+      "id": "0d1b"
+    },
+    {
+      "nombre": "Python",
+      "duracion": 4,
+      "dificultad": "Facil",
+      "id": "9871"
+    },
+    {
+      "nombre": "JavaScript",
+      "duracion": 8,
+      "dificultad": "Alta",
+      "id": "ffc5"
+    }
+  ]
+}
